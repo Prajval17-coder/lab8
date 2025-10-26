@@ -1,2 +1,1 @@
-# lab8
-steps to perform pract
+8th pract file
